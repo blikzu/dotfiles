@@ -1,5 +1,5 @@
 # dotfiles
-A quick backup of my Arch Linux config files and scripts
+A quick backup of my Arch Linux config files and scripts (no longer in use)
 
 ![alt text](https://i.imgur.com/UmzhPRL.jpg)
 ![alt text](https://i.imgur.com/egoIPr6.png)
